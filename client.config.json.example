@@ -1,0 +1,7 @@
+{
+  "Username": "YourBotName",
+  "ServerIp": "example.server.host",
+  "ServerPort": 25565,
+  "Password": "your-server-password",
+  "Version": "318"
+}
