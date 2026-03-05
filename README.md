@@ -99,6 +99,13 @@ chmod +x ./HeadlessTerrariaClient
 ./HeadlessTerrariaClient <username> <ip> <port> <password>
 ```
 
+## Ingame Commands
+
+- `afkbot help` sends all commands and their functions.
+- `afkbot tp [playername]` teleports bot to mentioned player.
+- `afkbot move [right/left/up/down] [number of ticks]` for movement.
+- `afkbot attack` to attack using an inventory item(currently bugged).
+
 ## Security / Repo Hygiene
 
 1. Do not commit real credentials.
